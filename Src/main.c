@@ -3,7 +3,7 @@
  * ECET 260 ARM Microcontrollers
  * 12 Sep, 2019
  * LAB 2_GPIO
- * This lab turns four LEDs on in clockwise direction and when the blue button(Active low) is pressed, it changes to clockwise direction
+ * This lab turns four LEDs on in clockwise direction and when the blue button(Active low) is pressed, it changes to counterclockwise direction
  * ****Two LEDS on the same pin is the main thing*****
  * PIN 8_RED LED = Active Low
  * PIN 3_BLUE LED = Active LOW
